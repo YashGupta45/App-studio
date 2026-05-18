@@ -26,7 +26,7 @@ const APPS = [
   {
     name: "Purchase Summary",
     description: "Compare the amount of items purchased by a store with their GST numbers.",
-    url: "https://purchase-summary.vercel.app/",
+    url: "https://purchase-lalu.vercel.app/",
     category: "Finance",
     tags: ["outstanding", "gst", "comapare"]
   },
